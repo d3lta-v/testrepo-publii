@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://d3lta-v.github.io/testrepo-publii/sitemap.xml
