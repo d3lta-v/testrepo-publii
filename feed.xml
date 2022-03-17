@@ -3,12 +3,33 @@
     <title>Test Website</title>
     <link href="https://d3lta-v.github.io/testrepo-publii/feed.xml" rel="self" />
     <link href="https://d3lta-v.github.io/testrepo-publii" />
-    <updated>2022-03-17T13:12:10+08:00</updated>
+    <updated>2022-03-17T16:28:59+08:00</updated>
     <author>
         <name>FourierIndustries LLP</name>
     </author>
     <id>https://d3lta-v.github.io/testrepo-publii</id>
 
+    <entry>
+        <title>Another Test Post</title>
+        <author>
+            <name>FourierIndustries LLP</name>
+        </author>
+        <link href="https://d3lta-v.github.io/testrepo-publii/another-test-post.html"/>
+        <id>https://d3lta-v.github.io/testrepo-publii/another-test-post.html</id>
+
+        <updated>2022-03-17T16:28:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    This is another test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is another test post</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Markdown lmao</title>
         <author>

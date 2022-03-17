@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://d3lta-v.github.io/testrepo-publii/another-test-post.html",
+            "url": "https://d3lta-v.github.io/testrepo-publii/another-test-post.html",
+            "title": "Another Test Post",
+            "summary": "This is another test post",
+            "content_html": "<p>This is another test post</p>\n",
+            "author": {
+                "name": "FourierIndustries LLP"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-17T16:28:59+08:00",
+            "date_modified": "2022-03-17T16:28:59+08:00"
+        },
+        {
             "id": "https://d3lta-v.github.io/testrepo-publii/markdown-lmao.html",
             "url": "https://d3lta-v.github.io/testrepo-publii/markdown-lmao.html",
             "title": "Markdown lmao",
